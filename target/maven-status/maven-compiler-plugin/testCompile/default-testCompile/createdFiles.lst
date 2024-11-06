@@ -1,0 +1,14 @@
+com\e2e\Test\automation\RunWebSuiteTest.class
+com\e2e\Test\automation\utils\TearDown.class
+com\e2e\Test\automation\utils\ExcelUtils.class
+com\e2e\Test\automation\utils\SeleniumUtils.class
+com\e2e\Test\automation\utils\Setup.class
+com\e2e\Test\automation\pageObjects\AddParfumPage.class
+com\e2e\Test\automation\stepDefinition\AuthentificationStepDefinition.class
+com\e2e\Test\automation\stepDefinition\AddParfumStepSefinition.class
+com\e2e\Test\automation\utils\Validations.class
+com\e2e\Test\automation\utils\BasePage.class
+com\e2e\Test\automation\utils\Constant.class
+com\e2e\Test\automation\pageObjects\AuthentificationPage.class
+com\e2e\Test\automation\utils\ConfigFileReader.class
+com\e2e\Test\automation\utils\SelectFromListUtils.class
